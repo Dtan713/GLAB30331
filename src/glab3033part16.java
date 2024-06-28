@@ -1,4 +1,4 @@
-public class glab3033part15 {
+public class glab3033part16 {
     public static void main(String[] args) {
         String s1 = "PerScholas";
         String s2 = "PerScholas";
