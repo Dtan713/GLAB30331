@@ -9,4 +9,3 @@ public class glab3033part9 {
         System.out.println(s1.compareTo(s4)); // 2 because "h" is 2 times greater than "f"
     }
     }
-
